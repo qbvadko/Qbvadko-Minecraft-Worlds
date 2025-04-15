@@ -34,4 +34,4 @@
  - [ ] #E1BEE7 
  - [ ] #F5F5F5 
 
-<img height="100px" src="https://github.com/qbvadko/Qbvadko-Minecraft-Worlds/images/" alt=""/>
+<img height="100px" src="images/google.svg" alt=""/>
