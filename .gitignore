@@ -1,0 +1,14 @@
+/images
+
+*/advancements/
+*/data/
+*/datapacks/
+*/playerdata/
+*/stats/
+*/level.dat_old
+*/session.lock
+
+*/whitelist.json
+*/banned-ips.json
+*/banned-players.json
+*/oplist.json
