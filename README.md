@@ -1,4 +1,4 @@
-<h1 align="center">Solo World</h1>
+<h1 align="center">Qbvadko Solo World</h1>
 
 ![Oops the picture didn't load](imgs/buildings.png)
 
